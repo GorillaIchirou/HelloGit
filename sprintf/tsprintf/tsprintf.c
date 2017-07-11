@@ -2,6 +2,7 @@
 //		Add line
 //		Chg HelloGit-02	: 1122334455
 //		Chg HelloGit-02	: abcdefghij
+//		HelloGit-03	: Chg !"#$%&'()
 //---------------------------------------//
 
 /*
